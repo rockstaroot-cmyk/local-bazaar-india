@@ -1,0 +1,13 @@
+
+name: local_bazaar_india
+description: India ka Apna Market - Kirana & Daily + Bazaar (Fashion | Electronics | Furniture) - Single APK Android Only - Available only in India
+publish_to: 'none'
+version: 1.0.0+1
+environment:
+  sdk: '>=3.2.0 <4.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+flutter:
+  uses-material-design: true
